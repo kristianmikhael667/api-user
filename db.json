@@ -1,0 +1,130 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Mike Gans",
+          "alamat": "Depok",
+          "umur": 22,
+          "nohp": "089668997397"
+        },
+        {
+          "id": 2,
+          "nama": "Neta",
+          "alamat": "Jakarta",
+          "umur": 20,
+          "nohp": "089668997212"
+        },
+        {
+          "id": 3,
+          "nama": "Lia",
+          "alamat": "Depok",
+          "umur": 20,
+          "nohp": "089668997111"
+        },
+        {
+          "id": 4,
+          "nama": "Bunga Darmayanti",
+          "alamat": "Jakarta",
+          "umur": 20,
+          "nohp": "089668997812"
+        },
+        {
+          "id": 5,
+          "nama": "Lusi Delau",
+          "alamat": "Depok",
+          "umur": 20,
+          "nohp": "089668997567"
+        },
+        {
+          "id": 6,
+          "nama": "Yohana",
+          "alamat": "Depok",
+          "umur": 21,
+          "nohp": "089668997231"
+        },
+        {
+          "id": 7,
+          "nama": "Nathalia",
+          "alamat": "Jakarta",
+          "umur": 20,
+          "nohp": "089668997136"
+        },
+        {
+          "id": 8,
+          "nama": "Michelle",
+          "alamat": "Depok",
+          "umur": 20,
+          "nohp": "089668997441"
+        },
+        {
+          "id": 9,
+          "nama": "Anya",
+          "alamat": "Jakarta",
+          "umur": 20,
+          "nohp": "089668997169"
+        },
+        {
+          "id": 10,
+          "nama": "Novi",
+          "alamat": "Bogor",
+          "umur": 20,
+          "nohp": "089668997441"
+        },
+        {
+          "id": 11,
+          "nama": "Liodra",
+          "alamat": "Jakarta",
+          "umur": 21,
+          "nohp": "089668997551"
+        },
+        {
+          "id": 12,
+          "nama": "Wati",
+          "alamat": "Jakarta",
+          "umur": 20,
+          "nohp": "089668997331"
+        },
+        {
+          "id": 13,
+          "nama": "Karenina",
+          "alamat": "Jakarta",
+          "umur": 22,
+          "nohp": "089668997132"
+        },
+        {
+          "id": 14,
+          "nama": "Exceline",
+          "alamat": "Bogor",
+          "umur": 22,
+          "nohp": "089668997190"
+        },
+        {
+          "id": 15,
+          "nama": "Putri Dewi",
+          "alamat": "Depok",
+          "umur": 22,
+          "nohp": "089668997342"
+        },
+        {
+          "id": 16,
+          "nama": "Salsha Diana",
+          "alamat": "Depok",
+          "umur": 22,
+          "nohp": "089668997324"
+        },
+        {
+          "id": 17,
+          "nama": "Jessica Natasya",
+          "alamat": "Bali",
+          "umur": 22,
+          "nohp": "089668997321"
+        },
+        {
+          "id": 18,
+          "nama": "Christa Joana",
+          "alamat": "Jakarta Timur",
+          "umur": 22,
+          "nohp": "089668997212"
+        }
+      ]
+}
